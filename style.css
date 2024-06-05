@@ -2,7 +2,9 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: #a59a9a;
+
+    background: linear-gradient(180deg, rgba(12, 112, 242, 0.5) 19.91%, rgba(0, 0, 0, 0) 24.84%),#303030;
+    background-repeat: no-repeat;
 }
 
 #principal{
